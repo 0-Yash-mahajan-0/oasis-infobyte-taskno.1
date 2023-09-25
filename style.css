@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
-/*google fonts*/
 
 * {
 	box-sizing: border-box;
@@ -23,7 +22,6 @@ img {
 	height: auto;
 }
 
-/*ends base*/
 
 .container {
 	width: 1280px;
@@ -36,7 +34,6 @@ a {
 	text-decoration: none;
 }
 
-/*ends basic*/
 
 .hero {
 	width: 100%;
